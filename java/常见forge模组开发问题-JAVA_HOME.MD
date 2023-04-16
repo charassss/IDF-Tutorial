@@ -1,12 +1,8 @@
-## 常见forge模组开发问题
+## 常见forge模组开发问题 其一——JAVA_HOME
 
 ---
 
 如果你被我或者其他人推了这篇文章,你多半是JAVA_HOME设置错了.请耐心往下观看
-
----
-
-### ①JAVA_HOME
 
 ![ERROR: JAVA_HOME is set to an invalid directory: XXX:\XXXX\XXXX](./1.jpg)
 
@@ -56,6 +52,4 @@
  - 很多人在修改完后发现没有起效,原因是没有重启cmd
 
 6.结束
-
-P.S.若不成功请加QQ2524423915找作者问问
 
